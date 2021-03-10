@@ -1,0 +1,22 @@
+Saya Aldi Saepurahman mengerjakan evaluasi Tugas Praktikum 2 dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan:
+- Dalam melakukan koneksi perlu mendownload library dari internet, dan itu menghabiskan
+waktu yang lama
+- Awalnya bingung membuat koneksi, tapi setelah mendapat beberapa referensi dari internet dan
+file yang lama sehingga bisa diimplementasikan di class Form
+
+Hal baru:
+- Bisa mencoba jenis message box dari OptionPane Java
+- Bisa mempelajari cara koneksi database dari Java
+
+Fitur yang sudah dikerjakan:
+- Panel Halaman Utama yang menampilkan tulisan "Welcome!"
+- Navigasi menu form, table dan info
+- Panel info yang berisi profil diri beserta gambar
+- Ambil data dari database dan menampilkannya pada tabel
+- Validasi form dan insert data dari form
+- Koneksi database menggunakan library (dicantumkan dalam repository beserta file database)
+- Pesan Error/Sukses ketika insert data dan koneksi database
